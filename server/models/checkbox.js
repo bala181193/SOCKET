@@ -20,7 +20,7 @@ sports:[
   }
 ],
   
- 
+ multipleCheckbox:[{name:{type:String,isChecked:{type:Boolean}}}],
   date: {
     type: Date,
     default: Date.now,
